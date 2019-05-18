@@ -1,0 +1,8 @@
+F:\projects\Vocabulary-reminder\Vocabulary-reminder\Vocabulary-reminder\bin\Debug\Vocabulary-reminder.exe
+F:\projects\Vocabulary-reminder\Vocabulary-reminder\Vocabulary-reminder\bin\Debug\Vocabulary-reminder.pdb
+F:\projects\Vocabulary-reminder\Vocabulary-reminder\Vocabulary-reminder\obj\x86\Debug\Vocabulary_reminder.Properties.Resources.resources
+F:\projects\Vocabulary-reminder\Vocabulary-reminder\Vocabulary-reminder\obj\x86\Debug\Vocabulary-reminder.csproj.GenerateResource.Cache
+F:\projects\Vocabulary-reminder\Vocabulary-reminder\Vocabulary-reminder\obj\x86\Debug\Vocabulary-reminder.exe
+F:\projects\Vocabulary-reminder\Vocabulary-reminder\Vocabulary-reminder\obj\x86\Debug\Vocabulary-reminder.pdb
+F:\projects\Vocabulary-reminder\Vocabulary-reminder\Vocabulary-reminder\obj\x86\Debug\Vocabulary_reminder.Form1.resources
+F:\projects\Vocabulary-reminder\Vocabulary-reminder\Vocabulary-reminder\obj\x86\Debug\Vocabulary_reminder.Form2.resources
